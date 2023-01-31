@@ -12,6 +12,7 @@ or click the code button and download the zip and extract it somewhere
 Now all you need to do to install it is load the unpacked extension in the browser extensions page
 
 edge://extensions
+
 chrome://extensions
 
 Paste either of those into a new window or tab depending upon if you're running edge or chrome
