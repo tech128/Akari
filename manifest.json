@@ -16,19 +16,9 @@
     ]
   },
   "browser_action": {
-    "default_icon": {
-      "16": "img/icon16.png",
-      "24": "img/icon24.png",
-      "32": "img/icon32.png"
-    },
+    "default_icon": "img/icon16.png",
     "default_title": "Akari Link Shortener",
     "default_popup": "popup.html"
-  },
-  "applications": {
-    "gecko": {
-      "id": "akari@waa.ai",
-      "strict_min_version": "48.0"
-    }
   },
   "permissions": [
 	"tabs",
@@ -47,13 +37,5 @@
     "24": "img/icon24.png",
     "32": "img/icon32.png",
     "48": "img/icon.png"
-  },
-  "page_action": {
-    "default_icon": {
-      "16": "img/bun16.png",
-      "24": "img/bun24.png",
-      "32": "img/bun32.png",
-      "48": "img/icon.png"
-    }
   }
 }
